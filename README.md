@@ -10,7 +10,7 @@ If any of the following reasons are valid in your case:
 - You do not want to maintain your own validations
 - Your project requires few basic to advanced validations
 - You wish to start using a lightweight library within no time
-- You are interested in learning some of the magic that few big frameworks or libraries perform behing the scenes
+- You are interested in learning some of the magic that few big frameworks or libraries perform behind the scenes
 
 ### Requirements
 This library has been tested with PHP version 5.6 & 7. It relies on PSR-4 standards based composer autloader.
