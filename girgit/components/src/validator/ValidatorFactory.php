@@ -42,6 +42,7 @@ class ValidatorFactory
      * @access  public
      * @param   string  $strategy  The name of strategy to be produced.
      * @throws  RuntimeException
+     * @todo    Cache reflected objects for future references
      */
     public function __construct($strategy)
     {
