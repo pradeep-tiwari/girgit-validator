@@ -32,6 +32,8 @@ Its that simple. Please go through the sample example files in the /examples dir
 It does not support nested or deep multi-dimensional array based validations because generally in most cases, this is not what you require.
 
 ### To Do
+- Cache reflected objects per application life cycle
+- Signify protected members with _ for visual clarity
 - Write unit-tests
 - Document strategy classes
 - Add more strategies
